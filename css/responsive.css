@@ -1,0 +1,619 @@
+@media(max-width: 400px){
+   .banner_content_button_social__text__header{
+      font-size: 14px;
+      padding-top: 5px;
+   }
+   .banner_content_button_social__icon a{
+      width: 20px;
+      height: 20px;
+      line-height: 20px;
+      color: var(--portfolio__color);
+      font-size: 10px;
+   }
+     /* footer part start */
+     .footer__content{
+      text-align: center;
+   }
+   .footer__content a{
+      font-size: 7px;
+   }
+   .footer__content__right{
+      text-align: center !important;
+      font-size: 14px !important;
+   }
+   /* footer part end */
+}
+@media(max-width: 576px){
+   /* navbar start */
+   .nav-link{
+      padding: 10px 0 !important;
+  }
+  .portfolio__one__btn a{
+   padding: 10px 25px;
+}
+   /* navbar end */
+    /* banner part start */
+    .banner__content{
+        margin-top: 20px !important;
+    }
+    .banner__content__header{
+        font-size: 37px !important;
+     }
+     .banner__content__sencond__header{
+        font-size: 20px !important;
+        line-height: 30px !important;
+     }
+     .banner__content__last__header{
+        font-size: 20px !important;
+        line-height: 30px !important;
+     }
+     .banner__content__last__paragrap{
+        font-size: 16px !important;
+        line-height: 30px;
+     }
+     .banner__content__button{
+        display: block !important;
+       margin-top: 15px !important;
+     }
+     .banner_content_button_btn a{
+        font-size: 18px !important;
+     }
+     .banner_content_button_social{
+        padding-left: 10px !important;
+        margin-top: 20px !important;
+    }
+       .banner__project__animation__one{
+        bottom: 5% !important;
+     }
+     .banner__project__animation__two{
+        bottom: 5% !important;
+     }
+    /* banner part end */
+    /* Service part start */
+    .service__content__main{
+      font-size: 30px;
+   }
+   .service__content__main::after{
+      left: 42%;
+  }
+  .services__items__content{
+   padding: 15px 20px;
+  }
+  .services__items__content__img{
+   width: 4.2rem;
+   height: 4.2rem;
+   line-height: 4.2rem;
+   margin-top: 20px;
+  }
+  .services__items__content__img::after{
+   height: 3.5rem;
+   width: 2.5rem;
+   top: -65%;
+  }
+  .services__items__content__text__heading{
+   font-size: 20px;
+   margin-top: 15px !important;
+}
+.services__items__content__text__paraghrap{
+       font-size: 14px;
+       line-height: 27px;
+       margin-top: 10px;
+} 
+    /* Service part end */
+    /* about part start */
+    .about__content__main{
+      font-size: 30px;
+   }
+   .about__content__main::after{
+      left: 42%;
+  }
+  .about_left h2{
+   font-size: 24px;
+  }
+  .about_left p{
+   font-size: 16px;
+  }
+  .about_right p{
+   font-size: 16px;
+   margin: 10px 0;
+  }
+  .counter{
+   border-bottom: 1px dotted var(--headar__second__color);
+   border-right: 1px dotted transparent;
+   padding: 10px 0 !important;
+  }
+  .last_counter{
+   border-bottom: 1px dotted transparent;
+}
+  .counter h3{
+   font-size: 32px;
+  }
+  .counter p{
+   font-size: 16px;
+  }
+    /* about part end */
+   /* resume part start */
+   .resume__content__main{
+      font-size: 30px;
+   }
+   .resume__content__main::after{
+      left: 42%;
+  }
+  .resume__content__paragharap{
+   font-size: 16px;
+}
+.edcation h2{
+   font-size: 25px;
+   margin-top: 10px !important;
+}
+.skill_part h2{
+   font-size: 25px;
+}
+.skill_main h4{
+   font-size: 16px;
+}
+.skil_btn a{
+   padding: 8px 25px;
+}
+   /* resume part end */
+   /* .portfolio part start */
+   .portfolio__content__main{
+      font-size: 30px;
+   }
+   .portfolio__content__main::after{
+      left: 42%;
+  }
+  .portfolio__content__paragharap{
+   font-size: 16px;
+}
+.portfolio__content__paragharap{
+   font-size: 16px;
+}
+.work_main a{
+   width: 100%;
+   padding: 15px 25px;
+   margin-top: 10px;
+   font-size: 16px;
+}
+   /* .portfolio part end */
+   /* contact part start */
+   #contact{
+      padding-top: 30px;
+   }
+   .contact__items__text__second__heading{
+      font-size: 25px;
+   }
+   .contact__items__text__heading{
+      font-size: 30px;
+   }
+   .contact__items__text__paragharap{
+      width: 95%;
+    }
+    .contact__items__input__items{
+      margin-top: 20px;
+   }
+   .contact__items__btn a{
+      padding: 12px 30px;
+      font-size: 16px;
+      margin-top: 30px;
+   }
+   .contact__content__main{
+      margin-top: 30px;
+   }
+   .conteact__content__icon i{
+      width: 3.2rem;
+      height: 3.2rem;
+      line-height: 3.2rem;
+      font-size: 20px;
+   }
+   .contact__items__text__heading{
+      font-size: 20px;
+      line-height: 22px;
+      margin-bottom: 10px;
+   }
+   .contact__items__text__paraghrap{
+      font-size: 14px;
+    line-height: 10px;
+   }
+   /* contact part end */
+   /* footer part start */
+   .footer__content{
+      text-align: center;
+   }
+   .footer__content a{
+      font-size: 14px;
+   }
+   .footer__content__right{
+      text-align: center;
+      font-size: 16px;
+      margin-top: 10px;
+   }
+   /* footer part end */
+}
+@media(max-width:768px){
+    /* banner part start */
+    .banner__content{
+        margin-top: 20px !important;
+    }
+    .banner__content__header{
+        font-size: 37px !important;
+     }
+     .banner__content__sencond__header{
+        font-size: 20px !important;
+        line-height: 30px !important;
+     }
+     .banner__content__last__header{
+        font-size: 20px !important;
+        line-height: 30px !important;
+     }
+     .banner__content__last__paragrap{
+        font-size: 16px !important;
+        line-height: 30px;
+     }
+     .banner__content__button{
+        display: block !important;
+       margin-top: 15px !important;
+     }
+     .banner_content_button_btn a{
+        font-size: 18px !important;
+     }
+     .banner_content_button_social{
+        padding-left: 10px !important;
+        margin-top: 20px !important;
+    }
+       .banner__project__animation__one{
+        bottom: 5% !important;
+     }
+     .banner__project__animation__two{
+        bottom: 5% !important;
+     }
+    /* banner part end */
+    /* Service part start */
+    .service__content__main{
+      font-size: 30px;
+   }
+   .service__content__main::after{
+      left: 40% !important;
+  }
+  .services__items__content{
+   padding: 15px 20px;
+  }
+  .services__items__content__img{
+   width: 4.2rem;
+   height: 4.2rem;
+   line-height: 4.2rem;
+   margin-top: 20px;
+  }
+  .services__items__content__img::after{
+   height: 3.5rem;
+   width: 2.5rem;
+   top: -65%;
+  }
+  .services__items__content__text__heading{
+   font-size: 20px !important;
+   margin-top: 15px !important;
+}
+.services__items__content__text__paraghrap{
+       font-size: 14px;
+       line-height: 27px;
+       margin-top: 10px;
+} 
+    /* Service part end */
+/* about part start */
+.about__content__main{
+   font-size: 30px;
+}
+.about__content__main::after{
+   left: 42% !important;
+}
+.about_left h2{
+font-size: 24px;
+}
+.about_left p{
+font-size: 16px;
+}
+.about_right p{
+font-size: 16px;
+margin: 10px 0;
+}
+.counter{
+border-bottom: 1px dotted var(--headar__second__color);
+border-right: 1px dotted transparent;
+padding: 10px 0 !important;
+}
+.counter h3{
+font-size: 32px;
+}
+.counter p{
+font-size: 16px;
+}
+ /* about part end */
+/* resume part start */
+.resume__content__main{
+   font-size: 30px;
+}
+.resume__content__main::after{
+   left: 42%;
+}
+.resume__content__paragharap{
+font-size: 16px;
+}
+.edcation h2{
+font-size: 25px;
+margin-top: 10px !important;
+}
+.skill_part h2{
+font-size: 25px;
+}
+.skill_main h4{
+font-size: 16px;
+}
+.skil_btn a{
+padding: 8px 25px;
+}
+/* resume part end */
+/* .portfolio part start */
+.portfolio__content__main{
+   font-size: 30px;
+}
+.portfolio__content__main::after{
+   left: 42%;
+}
+.portfolio__content__paragharap{
+   font-size: 16px;
+}
+.portfolio__content__paragharap{
+   font-size: 16px;
+}
+.work_main a{
+   width: 100%;
+   padding: 15px 25px;
+   margin-top: 10px;
+   font-size: 16px;
+}
+/* .portfolio part end */
+/* contact part start */
+#contact{
+   padding-top: 30px;
+}
+.contact__items__text__second__heading{
+   font-size: 25px;
+}
+.contact__items__text__heading{
+   font-size: 30px;
+}
+.contact__items__text__paragharap{
+   width: 95%;
+ }
+ .contact__items__input__items{
+   margin-top: 20px;
+}
+.contact__items__btn a{
+   padding: 12px 30px;
+   font-size: 16px;
+   margin-top: 30px;
+}
+.contact__content__main{
+   margin-top: 30px;
+}
+.conteact__content__icon i{
+   width: 3.2rem;
+   height: 3.2rem;
+   line-height: 3.2rem;
+   font-size: 20px;
+}
+.contact__items__text__heading{
+   font-size: 20px;
+   line-height: 22px;
+   margin-bottom: 10px;
+}
+.contact__items__text__paraghrap{
+   font-size: 14px;
+ line-height: 10px;
+}
+/* contact part end */
+/* footer part start */
+.footer__content{
+   text-align: center;
+}
+.footer__content a{
+   font-size: 14px;
+}
+.footer__content__right{
+   text-align: center;
+   font-size: 16px;
+   margin-top: 10px;
+}
+/* footer part end */
+}
+@media(max-width:992px){
+    /* banner part start */
+    .banner__content{
+      margin-top: 20px !important;
+  }
+  .banner__content__header{
+      font-size: 37px !important;
+   }
+   .banner__content__sencond__header{
+      font-size: 20px !important;
+      line-height: 30px !important;
+   }
+   .banner__content__last__header{
+      font-size: 20px !important;
+      line-height: 30px !important;
+   }
+   .banner__content__last__paragrap{
+      font-size: 16px !important;
+      line-height: 30px;
+   }
+   .banner__content__button{
+      display: block !important;
+     margin-top: 15px !important;
+   }
+   .banner_content_button_btn a{
+      font-size: 18px !important;
+   }
+   .banner_content_button_social{
+      padding-left: 10px !important;
+      margin-top: 20px !important;
+  }
+     .banner__project__animation__one{
+      bottom: 5% !important;
+   }
+   .banner__project__animation__two{
+      bottom: 5% !important;
+   }
+  /* banner part end */
+  /* Service part start */
+  .service__content__main{
+   font-size: 30px;
+}
+.service__content__main::after{
+   left: 44%;
+}
+.services__items__content{
+padding: 15px 20px;
+}
+.services__items__content__img{
+width: 4.2rem;
+height: 4.2rem;
+line-height: 4.2rem;
+margin-top: 20px;
+}
+.services__items__content__img::after{
+height: 3.5rem;
+width: 2.5rem;
+top: -65%;
+}
+.services__items__content__text__heading{
+font-size: 25px;
+margin-top: 15px !important;
+}
+.services__items__content__text__paraghrap{
+    font-size: 14px;
+    line-height: 27px;
+    margin-top: 10px;
+} 
+ /* Service part end */
+ /* about part start */
+.about__content__main{
+   font-size: 30px;
+}
+.about__content__main::after{
+   left: 44%;
+}
+.about_left h2{
+font-size: 24px;
+}
+.about_left p{
+font-size: 16px;
+}
+.about_right p{
+font-size: 16px;
+margin: 10px 0;
+}
+.counter{
+border-bottom: 1px dotted var(--headar__second__color);
+border-right: 1px dotted transparent;
+padding: 10px 0 !important;
+}
+.counter h3{
+font-size: 32px;
+}
+.counter p{
+font-size: 16px;
+}
+ /* about part end */
+ /* resume part start */
+ .resume__content__main{
+   font-size: 30px;
+}
+.resume__content__main::after{
+   left: 44%;
+}
+/* resume part end */
+/* .portfolio part start */
+.portfolio__content__main{
+   font-size: 30px;
+}
+.portfolio__content__main::after{
+   left: 42%;
+}
+.portfolio__content__paragharap{
+   font-size: 16px;
+}
+.portfolio__content__paragharap{
+   font-size: 16px;
+}
+.work_main a{
+   padding: 10px 15px;
+   margin-top: 10px;
+   font-size: 14px;
+}
+/* .portfolio part end */
+/* contact part start */
+#contact{
+   padding-top: 30px;
+}
+.contact__items__text__second__heading{
+   font-size: 25px;
+}
+.contact__items__text__heading{
+   font-size: 30px;
+}
+.contact__items__text__paragharap{
+   width: 95%;
+ }
+ .contact__items__input__items{
+   margin-top: 20px;
+}
+.contact__items__btn a{
+   padding: 12px 30px;
+   font-size: 16px;
+   margin-top: 30px;
+}
+.contact__content__main{
+   margin-top: 30px;
+}
+.conteact__content__icon i{
+   width: 3.5rem;
+   height: 3.5rem;
+   line-height: 3.5rem;
+   font-size: 20px;
+}
+.contact__items__text__heading{
+   font-size: 20px;
+   line-height: 22px;
+   margin-bottom: 10px;
+}
+.contact__items__text__paraghrap{
+   font-size: 14px;
+ line-height: 10px;
+}
+/* contact part end */
+/* footer part start */
+.footer__content{
+   text-align: center;
+}
+.footer__content a{
+   font-size: 14px;
+}
+.footer__content__right{
+   text-align: center;
+   font-size: 16px;
+   margin-top: 10px;
+}
+/* footer part end */
+}
+@media(max-width:1200px){
+    /* banner part start */
+  .work_main a{
+   padding: 10px 15px;
+   margin-top: 10px;
+   font-size: 14px;
+}
+  /* banner part end */
+}
+@media(max-width:1400px){
+    
+}
