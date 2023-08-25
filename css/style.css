@@ -19,7 +19,7 @@
     --contact__color: rgba(233, 249, 255,0.7);
 }
 body{
-    overflow-x: hidden;
+     overflow-x: hidden;
 }
 .navbar-toggler collapsed{
     border: none !important	;
