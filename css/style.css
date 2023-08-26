@@ -18,8 +18,8 @@
     --skill__color :rgba(239, 243, 247,0.5);
     --contact__color: rgba(233, 249, 255,0.7);
 }
-body{
-     overflow-x: hidden !important;
+html,body{
+    overflow-x: hidden !important;
 }
 .navbar-toggler collapsed{
     border: none !important	;
